@@ -82,8 +82,8 @@ The data was originally scattered across **multiple PDF files** with inconsisten
 
 **Aditya BG**  
 3rd Year CSE Student — Dayananda Sagar College of Engineering  
-Email: _[Your Email]_  
-LinkedIn: _[Your LinkedIn link]_
+Email: adityabg11@gmail.com 
+
 
 ---
 
