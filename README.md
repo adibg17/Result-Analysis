@@ -85,7 +85,8 @@ A detailed PDF presentation covering:
 - Dashboard walkthrough
 - Insights and conclusions
 
-📄 [Click here to view the PDF](Result analysis (1).pdf)
+📄 [View Project Presentation (PDF)](Result analysis (1).pdf)
+
 
 
 ## ✍️ Author
