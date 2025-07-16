@@ -77,6 +77,16 @@ The data was originally scattered across **multiple PDF files** with inconsisten
 ![Dashboard Preview](Dashboard.png)
 
 ---
+## 📽️ Project Presentation
+
+A detailed PDF presentation covering:
+- Project background
+- Data extraction and cleaning
+- Dashboard walkthrough
+- Insights and conclusions
+
+📄 [Click here to view the PDF](Result analysis(1).pdf)
+
 
 ## ✍️ Author
 
